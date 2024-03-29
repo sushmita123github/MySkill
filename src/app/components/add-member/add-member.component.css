@@ -1,0 +1,16 @@
+/* .form-control.ng-touched.ng-invalid{
+    border: 2px solid red;
+} */
+h2{
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+}
+.bg-img{
+    background-image:url(https://t3.ftcdn.net/jpg/00/46/44/02/360_F_46440268_HxTMxCec1EntidRNV0mrw1wMDtMcYk8g.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
